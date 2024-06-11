@@ -1,9 +1,12 @@
 const linearSearch = (arr, targetVal) => {
-    for (let x in arr) {
-        if (arr[x] === targetVal){
-          return arr.indexOf(arr[x])
-      }
+  // loops through the array
+  for (let x in arr) {
+    // checks for a match
+    if (arr[x] === targetVal) {
+      return arr.indexOf(arr[x]);
+    }
   }
+  // if no match is found
   return -1;
 };
 
