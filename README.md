@@ -107,5 +107,3 @@ DSA-Implementations/
 ## Contributing
 
 Contributions are welcome! If you have any improvements or additional algorithms you'd like to add, feel free to fork the repository and submit a pull request. Please ensure your code is well-documented and follows the existing structure of the repository.
-
----
