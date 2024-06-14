@@ -108,10 +108,4 @@ DSA-Implementations/
 
 Contributions are welcome! If you have any improvements or additional algorithms you'd like to add, feel free to fork the repository and submit a pull request. Please ensure your code is well-documented and follows the existing structure of the repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
-
-Feel free to modify any part of this to better fit your project's specifics or personal preferences!
