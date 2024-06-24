@@ -15,7 +15,7 @@ const binarySearch = (arr, target) => {
 };
 
 const myArray = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19];
-const myTarget = 15;
+const myTarget = 7;
 const result = binarySearch(myArray, myTarget);
 
 if (result !== -1) {

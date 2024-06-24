@@ -10,8 +10,8 @@ const linearSearch = (arr, targetVal) => {
   return -1;
 };
 
-const arr = [3, 7, 2, 9, 5];
-const targetVal = 9;
+const arr = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19];
+const targetVal = 7;
 const result = linearSearch(arr, targetVal);
 if (result != -1) {
   console.log("Value", targetVal, "found at index", result);
