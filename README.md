@@ -42,46 +42,6 @@ To run JavaScript implementations, you can execute them using Node.js:
 node path/to/your/javascript_file.js
 ```
 
-## Directory Structure
-
-The repository is organized into directories based on the type of data structure or algorithm:
-
-```
-DSA-Implementations/
-│
-├── Python/
-│   ├── data_structures/
-│   │   ├── arrays.py
-│   │   ├── linked_lists.py
-│   │   ├── stacks.py
-│   │   └── queues.py
-│   └── algorithms/
-│       ├── sorting/
-│       │   ├── bubble_sort.py
-│       │   ├── merge_sort.py
-│       │   └── quick_sort.py
-│       └── searching/
-│           ├── binary_search.py
-│           └── linear_search.py
-│
-├── JavaScript/
-│   ├── data_structures/
-│   │   ├── arrays.js
-│   │   ├── linked_lists.js
-│   │   ├── stacks.js
-│   │   └── queues.js
-│   └── algorithms/
-│       ├── sorting/
-│       │   ├── bubble_sort.js
-│       │   ├── merge_sort.js
-│       │   └── quick_sort.js
-│       └── searching/
-│           ├── binary_search.js
-│           └── linear_search.js
-│
-└── README.md
-```
-
 ## Implemented Algorithms
 
 ### Data Structures
